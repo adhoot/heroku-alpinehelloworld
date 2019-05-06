@@ -8,6 +8,13 @@
   "description": "",
   "env": {
   },
+  "environments": {
+    "test": {
+      "scripts": {
+       "test": "echo pass"
+     }
+    }
+  },
   "formation": {
     "web": {
       "quantity": 1
